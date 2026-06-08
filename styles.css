@@ -695,7 +695,7 @@ textarea {
 @media (max-width: 900px) {
   .site-header {
     grid-template-columns: 1fr auto;
-    inset: 12px;
+    inset: 12px 12px auto;
   }
 
   .main-nav,
